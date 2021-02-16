@@ -1,1 +1,0 @@
-<?php echo "ahoj světe"; ?>
